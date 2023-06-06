@@ -1,6 +1,6 @@
 # Learning Management System
 
-<img src="https://raw.github.com/Prideland-Okoi/Django-ELearning-app/main/Screenshots/elearning-html-template.jpg' width = "600px"/>
+<img src="https://raw.github.com/Prideland-Okoi/Django-ELearning-app/main/Screenshots/elearning-html-template.jpg" width = "600px"/>
 
 ## Resources
 
