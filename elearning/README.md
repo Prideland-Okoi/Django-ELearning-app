@@ -1,9 +1,7 @@
 # Learning Management System
-![ScreenShot](https://raw.https://github.com/Prideland-Okoi/Django-ELearning-app/main/Screenshots/elearning-html-template.jpg)
 
-<div align="center">
-    <img src="/Screenshots/elearning-html-template.jpg" width="400px"</img> 
-</div>
+<img src="/Screenshots/elearning-html-template.jpg" width="400px"/>
 
 ## Resources
-https://themewagon.com/themes/elearning-free-bootstrap-5-css3-education-website-template/
+
+<https://themewagon.com/themes/elearning-free-bootstrap-5-css3-education-website-template/>
