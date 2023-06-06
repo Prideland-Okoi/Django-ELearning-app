@@ -15,3 +15,6 @@ def teamview(request):
 
 def contactview(request):
     return render(request, 'LMS/contact.html')
+
+def baseview(request):
+    return render(request, 'LMS/advbase.html')
